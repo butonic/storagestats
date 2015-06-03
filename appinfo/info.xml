@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>storagestats</id>
+    <name>Storage Stats</name>
+    <description>My first ownCloud app</description>
+    <licence>AGPL</licence>
+    <author>Jörn Friedrich Dreyer</author>
+    <version>0.0.1</version>
+    <namespace>StorageStats</namespace>
+    <category>other</category>
+    <dependencies>
+        <owncloud min-version="8" />
+    </dependencies>
+</info>
